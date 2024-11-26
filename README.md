@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ROYALATTACKER
+- 👋 Hi, I’m @Ali Hamza
 - 👀 I’m interested in CODING, SKETCHING AND POETRY
 - 🌱 I’m currently learning NEXTJS
 - 💞️ I’m looking to collaborate on BUILDING CONFLICT resolution SKILLS
